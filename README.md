@@ -1,4 +1,4 @@
-# Medical Insurance Cost Prediction System
+# Medical Insurance Price Prediction 
 
 ## Introduction
 This project aims to create a predictive system for estimating medical insurance expenses based on key factors. It will assist individuals and insurance providers in decision-making and planning.
